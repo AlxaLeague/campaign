@@ -34,4 +34,11 @@
 
 还有其他一些琐事的技术就不一一列举了。
 
-
+### 部分效果图
+工作台，活动审核和数据分析等  
+![Image text](campaign-picture/工作台.png) 
+![Image text](campaign-picture/营销活动管理.png) 
+![Image text](campaign-picture/创建营销活动.png) 
+![Image text](campaign-picture/短信营销任务管理.png) 
+![Image text](campaign-picture/新建短信营销任务.png) 
+![Image text](campaign-picture/用户组管理.png) 
